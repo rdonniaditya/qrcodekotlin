@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kelompok1_QRCodeScanner</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="kelompok_1">Kelompok 1</string>
+    <string name="aplikasi_qr_code">Aplikasi QR Code!</string>
+</resources>
